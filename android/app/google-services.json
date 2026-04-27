@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651614246760",
+    "project_id": "dormace-c49a8",
+    "storage_bucket": "dormace-c49a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651614246760:android:d16807b3c2c4c2fe6568dd",
+        "android_client_info": {
+          "package_name": "com.example.dormace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651614246760-hh45tt342c3j36f7vb4ekcud0a2op5oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dormace",
+            "certificate_hash": "9f0954e29aee0455634c3e40e0de91bbaae5a734"
+          }
+        },
+        {
+          "client_id": "651614246760-bv8f76ikl39n56a8thsjl8v69vh3v0io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXis3ByAegtbY-GwjLZ5TKP66U7u_dO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651614246760-bv8f76ikl39n56a8thsjl8v69vh3v0io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

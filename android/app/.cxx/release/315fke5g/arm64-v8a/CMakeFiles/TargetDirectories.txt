@@ -1,0 +1,2 @@
+C:/flutterprojects/dormace/android/app/.cxx/release/315fke5g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/flutterprojects/dormace/android/app/.cxx/release/315fke5g/arm64-v8a/CMakeFiles/rebuild_cache.dir

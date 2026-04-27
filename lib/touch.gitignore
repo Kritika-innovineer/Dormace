@@ -1,0 +1,6 @@
+assets/service_account.json
+*.jks
+android/local.properties
+android/key.properties
+build/
+.dart_tool/

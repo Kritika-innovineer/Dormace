@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+build/
+
+# IDE
+.idea/
+*.iml
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+
+# Logs
+*.log
+*.tmp
+
+# Sensitive
+*.jks
