@@ -270,6 +270,28 @@ class _complainhomepageState extends State<complainhomepage> {
                         )),
                       ),
                     ),
+                     SizedBox(width: 8),
+                    InkWell(
+                      onTap: () {
+                        setState(() {
+                          typeselected = "Monkeys attack";
+                        });
+                      },
+                      child: Container(
+                        height: 38,
+                        padding: EdgeInsets.only(left: 10, right: 10),
+                        decoration: BoxDecoration(
+                          color: Colors.grey.shade200,
+                          borderRadius: BorderRadius.circular(15),
+                        ),
+                        child: Center(
+                            child: Text(
+                          "Monkeys attack",
+                          style: TextStyle(
+                              fontSize: 12, fontWeight: FontWeight.w600),
+                        )),
+                      ),
+                    ),
                     SizedBox(width: 8),
                     InkWell(
                       onTap: () {
